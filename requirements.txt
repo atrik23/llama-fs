@@ -14,5 +14,4 @@ agentops
 langchain
 langchain_core
 watchdog
-agentops
 python-dotenv
